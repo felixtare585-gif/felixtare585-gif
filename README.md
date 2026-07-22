@@ -25,19 +25,19 @@
 # 👋 Hello, I'm Felix Tare
 
 ```text
-> whoami
+## > whoami
 
-name       : Felix Tare
-role       : Computer Technology Student
-university : Multimedia University of Kenya
+```text
+operator   : Felix Tare
+role       : Computer Technology Student · Aspiring Software Developer
+affiliation: Multimedia University of Kenya
 location   : Nairobi, Kenya
 
 focus:
-- Software Development
-- Java Applications
-- Python Programming
-- Web Development
-- Database Systems
+[ software_development, java_apps, python, web_development, databases ]
 
 status:
-Building practical systems and improving every day.
+Building practical systems and improving my skills every day.
+
+I don't just learn programming concepts —
+I build projects, solve problems, and continuously improve my understanding of software systems.
