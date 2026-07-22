@@ -109,3 +109,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=felixtare585-gif&label=Profile%20Views&style=flat" />
