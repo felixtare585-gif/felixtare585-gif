@@ -1,19 +1,23 @@
 <div align="center">
+
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
-║ ║
-║ ███████╗███████╗██╗ ██╗██╗ ██╗████████╗ ║
-║ ██╔════╝██╔════╝██║ ██║╚██╗██╔╝╚══██╔══╝ ║
-║ █████╗ █████╗ ██║ ██║ ╚███╔╝ ██║ ║
-║ ██╔══╝ ██╔══╝ ██║ ██║ ██╔██╗ ██║ ║
-║ ██║ ███████╗███████╗██║██╔╝ ██╗ ██║ ║
-║ ╚═╝ ╚══════╝╚══════╝╚═╝╚═╝ ╚═╝ ╚═╝ ║
-║ ║
-║ FELIX TARE // STATUS: BUILDING SOFTWARE ║
-║ NODE: Nairobi, Kenya // MODE: LEARNING ║
-║ ║
+║                                                              ║
+║        ███████╗███████╗██╗     ██╗██╗  ██╗                  ║
+║        ██╔════╝██╔════╝██║     ██║╚██╗██╔╝                  ║
+║        █████╗  █████╗  ██║     ██║ ╚███╔╝                   ║
+║        ██╔══╝  ██╔══╝  ██║     ██║ ██╔██╗                   ║
+║        ██║     ███████╗███████╗██║██╔╝ ██╗                  ║
+║                                                              ║
+║             FELIX TARE // BUILDING SOFTWARE                 ║
+║             NODE: Nairobi, Kenya                             ║
+║             STATUS: LEARNING & CREATING                     ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+</pre>
 
 </div>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Technology+Student;Java+Developer;Python+Learner;Web+Developer;Building+Real+World+Systems">
@@ -25,10 +29,10 @@
 ```text
 > whoami
 
-name      : Felix Tare
-role      : Computer Technology Student
-university: Multimedia University of Kenya
-location  : Nairobi, Kenya
+name       : Felix Tare
+role       : Computer Technology Student
+university : Multimedia University of Kenya
+location   : Nairobi, Kenya
 
 focus:
 - Software Development
