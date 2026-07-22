@@ -43,22 +43,31 @@ Currently improving my skills in Java, Python, databases, and web technologies.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🎓 Student Management System
+
 A Java Swing desktop application that manages student records.
 
 Features:
-- GUI interface
+- GUI interface using Java Swing
 - Add, update, delete, and search students
+- Student record management
 - MySQL database integration
+
+🔗 View Project:
+[Student Management System](https://github.com/felixtare585-gif/Student-Management-System-Java.java)
+
 
 ---
 
 ### 🌐 Personal Portfolio Website
 
 A personal website showcasing my skills, projects, and journey as a developer.
+
+🔗 View Project:
+(Add your portfolio repository link)
+
 
 ---
 
@@ -69,6 +78,8 @@ Small Python applications focused on improving:
 - Programming logic
 - Data structures
 
+🔗 View Projects:
+(Add your Python repository link)
 ---
 
 ## 📊 GitHub Stats
