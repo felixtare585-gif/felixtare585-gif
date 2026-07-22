@@ -93,24 +93,16 @@ Small Python applications focused on improving:
 
 ---
 
-⭐ Thanks for visiting my profile!## Hi there 👋
+## 🐍 Contribution Snake
 
-<!--
-**felixtare585-gif/felixtare585-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/felixtare585-gif/felixtare585-gif/output/github-contribution-grid-snake.svg">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 
 ## 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=felixtare585-gif&label=Profile%20Views&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=felixtare585-gif&label=Profile%20Views&style=flat">
+
+---
+
+⭐ Thanks for visiting my profile!
