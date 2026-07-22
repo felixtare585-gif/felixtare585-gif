@@ -98,20 +98,24 @@ Small Python applications focused on improving:
 
 ---
 
-## 📫 Connect With Me
+## 🌎 Connect With Me
+
+📍 Nairobi, Kenya  
+🎓 Computer Technology Student | Multimedia University of Kenya  
+
+📧 Email: felixtare585@gmail.com  
 
 <a href="https://www.linkedin.com/in/felix-kipyegon-834532314/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Felix%20Kipyegon-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/felixtare585-gif">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-felixtare585--gif-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="https://www.instagram.com/felixtare308/">
+<img src="https://img.shields.io/badge/Instagram-felixtare308-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
 ---
 
 ## 🐍 Contribution Snake
