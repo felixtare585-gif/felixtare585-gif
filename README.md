@@ -79,7 +79,7 @@ Small Python applications focused on improving:
 - Data structures
 
 🔗 View Projects:
-(Add your Python repository link)
+(https://github.com/felixtare585-gif/Python-Number-Guessing-Game)
 ---
 
 ## 📊 GitHub Stats
