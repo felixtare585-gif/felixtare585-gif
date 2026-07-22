@@ -1,4 +1,4 @@
-# Hi, I'm FELIX TARE
+# Hi 👋, I'm Felix Tare
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Technology+Student;Java+Developer;Python+Learner;Web+Developer;Building+Real+World+Projects" />
 </p>
@@ -66,7 +66,8 @@ Features:
 A personal website showcasing my skills, projects, and journey as a developer.
 
 🔗 View Project:
-(https://github.com/felixtare585-gif/my-portfolio)
+🔗 View Project:
+[Portfolio Website](https://github.com/felixtare585-gif/my-portfolio)
 
 
 ---
@@ -79,7 +80,8 @@ Small Python applications focused on improving:
 - Data structures
 
 🔗 View Projects:
-(https://github.com/felixtare585-gif/Python-Number-Guessing-Game)
+🔗 View Projects:
+[Python Number Guessing Game](https://github.com/felixtare585-gif/Python-Number-Guessing-Game)
 ---
 
 ## 📊 GitHub Stats
