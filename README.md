@@ -1,8 +1,8 @@
-# Hi 👋, I'm Felix Tare..
+# Hi 👋, I'm Felix Tare
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Technology+Student;Java+Developer;Python+Learner;Web+Developer;Building+Real+World+Projects" />
 </p>
-💻 Computer Technology Student  
+💻 Computer Technology Student.  
 ☕ Java Developer | 🐍 Python Learner | 🌐 Web Developer  
 
 I am passionate about software development and building real-world systems.
