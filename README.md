@@ -1,4 +1,4 @@
-# Hi, I'm Felix Tarei
+# Hi there, I'm Felix Tare 👋
 
 <p align="left">
   <a href="https://linkedin.com/in/felix-kipyegon-834532314">
@@ -82,12 +82,21 @@ I’m a Computer Technology student at **Multimedia University of Kenya**, passi
 ### > neofetch --stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&count_private=true" alt="Felix's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585-gif&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" width="45%" />
+  <!-- Profile Summary Card: Contribution Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixtare585-gif&theme=tokyonight" alt="GitHub Profile Summary" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixtare585-gif&theme=tokyonight&hide_border=false" alt="Felix's Contribution Streak" width="94%" />
+  <!-- Top Languages by Repo -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixtare585-gif&theme=tokyonight" alt="Top Languages by Repo" width="47%" />
+  
+  <!-- Top Languages by Commit -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felixtare585-gif&theme=tokyonight" alt="Top Languages by Commit" width="47%" />
+</p>
+
+<p align="center">
+  <!-- 3-Box Contribution Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixtare585-gif&theme=tokyonight&hide_border=false" alt="Felix's Contribution Streak" width="95%" />
 </p>
 
 ---
