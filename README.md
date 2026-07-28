@@ -1,4 +1,4 @@
-# Felix.K.Sang 👋
+# Felix.K.Sang 
 
 <p align="left">
   <a href="https://linkedin.com/in/felix-kipyegon-834532314">
