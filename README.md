@@ -1,134 +1,100 @@
-# Hi, I'm FelixTare
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Technology+Student;Java+Developer;Python+Learner;Web+Developer;Building+Real+World+Projects" />
+# Hi there, I'm Felix Tare 👋
+
+<p align="left">
+  <a href="https://linkedin.com/in/felix-kipyegon-834532314">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:felixtare585@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-💻 Computer Technology Student.  
-☕ Java Developer | 🐍 Python Learner | 🌐 Web Developer  
 
-I am passionate about Cyber Security software development and building real-world systems.I'm 
-currently improving my skills in Java, Python, databases, and web technologies.
+### 👨‍💻 Computer Technology Student | Java Developer | Cybersecurity & Data Enthusiast
 
----
-
-## 🚀 About Me
-
-- 🎓 Computer Technology Student
-- 💡 Interested in Software Development and System Design
-- 🌱 Currently learning:
-  - Java Swing & Database Integration
-  - Python Programming
-  - Web Development
-  - MySQL
-  - Cyber Security 
-- ⚡ Building practical projects to improve my programming skills
+I’m a Computer Technology student at **Multimedia University of Kenya**, passionate about building scalable desktop applications, exploring cybersecurity, and developing real-world software systems.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🚀 About Me
 
-### Programming Languages
+* 🎓 **Education:** Pursuing B.Sc. in Computer Technology at Multimedia University of Kenya.
+* 💻 **Primary Focus:** Object-Oriented Programming (Java), Database Design, and Web Systems.
+* 🛡️ **Interests:** Cybersecurity, System Architecture, and Data Structures & Algorithms.
+* 🎯 **Current Goal:** Developing production-ready Java applications using JavaFX, MySQL, and Maven.
 
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Tools
+**Frameworks & Libraries:**
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+**Tools & Environment:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-## 🚀 Featured Projects
-
-### 🎓 Student Management System
-
-A Java Swing desktop application that manages student records.
-
-Features:
-- GUI interface using Java Swing
-- Add, update, delete, and search students
-- Student record management
-- MySQL database integration
-
-🔗 View Project:
-[Student Management System](https://github.com/felixtare585-gif/Student-Management-System-Java.java)
-
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
-### 🌐 Personal Portfolio Website
+### 🔥 Featured Projects
 
-A personal website showcasing my skills, projects, and journey as a developer.
-
-🔗 View Project:
-🔗 View Project:
-[Portfolio Website](https://github.com/felixtare585-gif/my-portfolio)
-
-
----
-
-### 🐍 Python Projects
-
-Small Python applications focused on improving:
-- Problem solving
-- Programming logic
-- Data structures
-
-🔗 View Projects:
-🔗 View Projects:
-[Python Number Guessing Game](https://github.com/felixtare585-gif/Python-Number-Guessing-Game)
----
-
-## 📊 GitHub Stats
-
-![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felixtare585-gif&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585-gif&layout=compact&theme=tokyonight)
+#### 📦 [Inventory Management System](https://github.com/felixtare585-gif/InventoryManagementSystem)
+> *A desktop system designed for streamlined stock tracking and database operation.*
+* 🛠️ **Tech Stack:** Java, JavaFX, Maven, MySQL, JDBC
+* ⚡ **Features:** Structured MVC Architecture, complete CRUD operations, relational database integration, and UI design.
+* 🔗 **Repository:** [`felixtare585-gif/InventoryManagementSystem`](https://github.com/felixtare585-gif/InventoryManagementSystem)
 
 ---
 
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=felixtare585-gif&theme=tokyonight)
-
----
-
-## 🌎 Connect With Me
-
-📍 Nairobi, Kenya  
-🎓 Computer Technology Student | Multimedia University of Kenya  
-
-📧 Email: felixtare585@gmail.com  
-
-<a href="https://www.linkedin.com/in/felix-kipyegon-834532314/">
-<img src="https://img.shields.io/badge/LinkedIn-Felix%20Kipyegon-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/felixtare585-gif">
-<img src="https://img.shields.io/badge/GitHub-felixtare585--gif-black?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/felixtare308/">
-<img src="https://img.shields.io/badge/Instagram-felixtare308-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
----
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/felixtare585-gif/felixtare585-gif/output/github-contribution-grid-snake.svg">
+#### 🎓 [Student Management System](https://github.com/felixtare585-gif/Student-Management-System-Java.java)
+> *A desktop record-keeper for administrative student data management.*
+* 🛠️ **Tech Stack:** Java, Java Swing, MySQL, JDBC
+* ⚡ **Features:** Interactive GUI, record querying/filtering, real-time database CRUD actions.
+* 🔗 **Repository:** [`felixtare585-gif/Student-Management-System-Java.java`](https://github.com/felixtare585-gif/Student-Management-System-Java.java)
 
 ---
 
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=felixtare585-gif&label=Profile%20Views&style=flat">
+#### 🌐 [Personal Portfolio Website](https://github.com/felixtare585-gif/personal-html-portfolio)
+> *A semantic HTML portfolio detailing computer technology projects and academic trajectory.*
+* 🛠️ **Tech Stack:** HTML5, CSS3
+* ⚡ **Features:** Clean page layout, responsive structure, custom project links.
+* 🔗 **Repository:** [`felixtare585-gif/personal-html-portfolio`](https://github.com/felixtare585-gif/personal-html-portfolio)
 
 ---
 
-⭐ Thanks for visiting my profile!
+#### 🗺️ [Kericho Dijkstra Pathfinder](https://github.com/felixtare585-gif/Kericho-Dijkstra-Pathfinder.)
+> *Shortest path calculation model applying graph algorithms.*
+* 🛠️ **Tech Stack:** Python, Jupyter Notebook
+* ⚡ **Features:** Algorithm implementation, spatial pathfinding, data analysis.
+* 🔗 **Repository:** [`felixtare585-gif/Kericho-Dijkstra-Pathfinder.`](https://github.com/felixtare585-gif/Kericho-Dijkstra-Pathfinder.)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&count_private=true" alt="Felix's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585-gif&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+* 📍 **Location:** Nairobi, Kenya
+* 📧 **Email:** [felixtare585@gmail.com](mailto:felixtare585@gmail.com)
+* 💼 **LinkedIn:** [Felix Kipyegon](https://linkedin.com/in/felix-kipyegon-834532314)
+
+---
+<p align="center">
+  <i>Thanks for checking out my profile! Feel free to explore my repositories or connect with me.</i>
+</p>
