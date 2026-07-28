@@ -79,10 +79,14 @@ I’m a Computer Technology student at **Multimedia University of Kenya**, passi
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&count_private=true" alt="Felix's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixtare585-gif&theme=tokyonight" alt="Felix's Streak Stats" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585-gif&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" width="45%" />
 </p>
 
