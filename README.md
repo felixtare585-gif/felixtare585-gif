@@ -1,4 +1,4 @@
-# Hi there, I'm Felix Tare 👋
+# Hi, I'm FelixTare
 
 <p align="left">
   <a href="https://linkedin.com/in/felix-kipyegon-834532314">
