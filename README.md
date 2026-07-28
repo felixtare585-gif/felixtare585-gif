@@ -1,5 +1,11 @@
 # Hi there, I'm Felix Tare 👋
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demas.builder.io/?lines=Java+Developer+%7C+JavaFX+%26+MySQL;Cybersecurity+Enthusiast+%7C+CTF+Practitioner;Computer+Technology+Student+%7C+System+Design;Web+Developer+%7C+HTML+CSS;Aspiring+Data+Scientist&font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&width=600&height=50" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="left">
   <a href="https://linkedin.com/in/felix-kipyegon-834532314">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -8,10 +14,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-### 👨‍💻 Computer Technology Student | Java Developer | Cybersecurity & Data Enthusiast
-
-I’m a Computer Technology student at **Multimedia University of Kenya**, passionate about building scalable desktop applications, exploring cybersecurity, and developing real-world software systems.
 
 ---
 
