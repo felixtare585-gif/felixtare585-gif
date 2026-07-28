@@ -1,12 +1,12 @@
-# Hi 👋, I'm Felix Tare
+# Hi, I'm FelixTare
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Technology+Student;Java+Developer;Python+Learner;Web+Developer;Building+Real+World+Projects" />
 </p>
 💻 Computer Technology Student.  
 ☕ Java Developer | 🐍 Python Learner | 🌐 Web Developer  
 
-I am passionate about software development and building real-world systems.
-Currently improving my skills in Java, Python, databases, and web technologies.
+I am passionate about Cyber Security software development and building real-world systems.I'm 
+currently improving my skills in Java, Python, databases, and web technologies.
 
 ---
 
@@ -19,6 +19,7 @@ Currently improving my skills in Java, Python, databases, and web technologies.
   - Python Programming
   - Web Development
   - MySQL
+  - Cyber Security 
 - ⚡ Building practical projects to improve my programming skills
 
 ---
