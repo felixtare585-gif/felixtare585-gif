@@ -1,10 +1,4 @@
-# Hi there, I'm Felix Tare 👋
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demas.builder.io/?lines=Java+Developer+%7C+JavaFX+%26+MySQL;Cybersecurity+Enthusiast+%7C+CTF+Practitioner;Computer+Technology+Student+%7C+System+Design;Web+Developer+%7C+HTML+CSS;Aspiring+Data+Scientist&font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&width=600&height=50" alt="Typing SVG" />
-  </a>
-</p>
+# Felix Tare 👋
 
 <p align="left">
   <a href="https://linkedin.com/in/felix-kipyegon-834532314">
@@ -17,16 +11,20 @@
 
 ---
 
-### 🚀 About Me
+### > whoami
 
-* 🎓 **Education:** Pursuing B.Sc. in Computer Technology at Multimedia University of Kenya.
-* 💻 **Primary Focus:** Object-Oriented Programming (Java), Database Design, and Web Systems.
-* 🛡️ **Interests:** Cybersecurity, System Architecture, and Data Structures & Algorithms.
-* 🎯 **Current Goal:** Developing production-ready Java applications using JavaFX, MySQL, and Maven.
+```yaml
+Operator   : Felix Kipyegon (Felix Tare)
+Alias      : felixtare585-gif
+Role       : Computer Technology Student | Java Developer
+Affiliation: Multimedia University of Kenya
+Location   : Nairobi, Kenya
+Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
+```
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### > cat /proc/skills
 
 **Languages:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,7 +45,7 @@
 
 ---
 
-### 🔥 Featured Projects
+### > ls -la /projects
 
 #### 📦 [Inventory Management System](https://github.com/felixtare585-gif/InventoryManagementSystem)
 > *A desktop system designed for streamlined stock tracking and database operation.*
@@ -84,20 +82,15 @@
 ### > neofetch --stats
 
 <p align="center">
-  <!-- Profile Summary Card: Contribution Graph -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixtare585-gif&theme=tokyonight" alt="GitHub Profile Summary" width="95%" />
 </p>
 
 <p align="center">
-  <!-- Top Languages by Repo -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixtare585-gif&theme=tokyonight" alt="Top Languages by Repo" width="47%" />
-  
-  <!-- Top Languages by Commit -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felixtare585-gif&theme=tokyonight" alt="Top Languages by Commit" width="47%" />
 </p>
 
 <p align="center">
-  <!-- 3-Box Contribution Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixtare585-gif&theme=tokyonight&hide_border=false" alt="Felix's Contribution Streak" width="95%" />
 </p>
 
@@ -108,8 +101,3 @@
 * 📍 **Location:** Nairobi, Kenya
 * 📧 **Email:** [felixtare585@gmail.com](mailto:felixtare585@gmail.com)
 * 💼 **LinkedIn:** [Felix Kipyegon](https://linkedin.com/in/felix-kipyegon-834532314)
-
----
-<p align="center">
-  <i>Thanks for checking out my profile! Feel free to explore my repositories or connect with me.</i>
-</p>
