@@ -14,7 +14,7 @@
 ### > whoami
 
 ```yaml
-Operator   : Felix Kipyegon (Felix Tare)
+Operator   : Felix Kipyegon (Felix Tare).
 Alias      : felixtare585-gif
 Role       : Computer Technology Student | Java Developer
 Affiliation: Multimedia University of Kenya
