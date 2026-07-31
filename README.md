@@ -1,4 +1,4 @@
-# Felix.Dev
+# Felix.Dev.
 
 <p align="left">
   <a href="https://linkedin.com/in/felix-kipyegon-834532314">
