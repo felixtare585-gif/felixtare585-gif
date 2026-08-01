@@ -96,7 +96,8 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect With Me!!
+
 
 * 📍 **Location:** Nairobi, Kenya
 * 📧 **Email:** [felixtare585@gmail.com](mailto:felixtare585@gmail.com)
