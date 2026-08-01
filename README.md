@@ -17,7 +17,7 @@
 Operator   : Felix Kipyegon (Felix Tare).
 Alias      : felixtare585-gif
 Role       : Computer Technology Student | Java Developer
-Affiliation: Multimedia University of Kenya
+Affiliation: Multimedia University of Kenya.
 Location   : Nairobi, Kenya
 Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 ```
