@@ -47,8 +47,20 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 
 ### > ls -la /projects
 
+#### 🛒 [SmartPOS — Desktop Point of Sale System](https://github.com/felixtare585-gif/SmartPOS)
+
+> *A desktop-based Point of Sale system for managing retail transactions, inventory, products, and sales analytics.*
+
+* 🛠️ **Tech Stack:** Java, JavaFX, Maven, MySQL, JDBC, CSS
+* ⚡ **Features:** User authentication, POS terminal, shopping cart, inventory management, sales analytics, revenue reports, and CSV sales export.
+* 🔗 **Repository:** [`felixtare585-gif/SmartPOS`](https://github.com/felixtare585-gif/SmartPOS)
+
+---
+
 #### 📦 [Inventory Management System](https://github.com/felixtare585-gif/InventoryManagementSystem)
+
 > *A desktop system designed for streamlined stock tracking and database operation.*
+
 * 🛠️ **Tech Stack:** Java, JavaFX, Maven, MySQL, JDBC
 * ⚡ **Features:** Structured MVC Architecture, complete CRUD operations, relational database integration, and UI design.
 * 🔗 **Repository:** [`felixtare585-gif/InventoryManagementSystem`](https://github.com/felixtare585-gif/InventoryManagementSystem)
@@ -56,7 +68,9 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 ---
 
 #### 🎓 [Student Management System](https://github.com/felixtare585-gif/Student-Management-System-Java.java)
+
 > *A desktop record-keeper for administrative student data management.*
+
 * 🛠️ **Tech Stack:** Java, Java Swing, MySQL, JDBC
 * ⚡ **Features:** Interactive GUI, record querying/filtering, real-time database CRUD actions.
 * 🔗 **Repository:** [`felixtare585-gif/Student-Management-System-Java.java`](https://github.com/felixtare585-gif/Student-Management-System-Java.java)
@@ -64,7 +78,9 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 ---
 
 #### 🌐 [Personal Portfolio Website](https://github.com/felixtare585-gif/personal-html-portfolio)
+
 > *A semantic HTML portfolio detailing computer technology projects and academic trajectory.*
+
 * 🛠️ **Tech Stack:** HTML5, CSS3
 * ⚡ **Features:** Clean page layout, responsive structure, custom project links.
 * 🔗 **Repository:** [`felixtare585-gif/personal-html-portfolio`](https://github.com/felixtare585-gif/personal-html-portfolio)
@@ -72,12 +88,13 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 ---
 
 #### 🗺️ [Kericho Dijkstra Pathfinder](https://github.com/felixtare585-gif/Kericho-Dijkstra-Pathfinder.)
+
 > *Shortest path calculation model applying graph algorithms.*
+
 * 🛠️ **Tech Stack:** Python, Jupyter Notebook
 * ⚡ **Features:** Algorithm implementation, spatial pathfinding, data analysis.
 * 🔗 **Repository:** [`felixtare585-gif/Kericho-Dijkstra-Pathfinder.`](https://github.com/felixtare585-gif/Kericho-Dijkstra-Pathfinder.)
 
----
 
 ### > neofetch --stats
 
