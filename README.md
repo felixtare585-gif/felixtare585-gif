@@ -96,16 +96,25 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 * 🔗 **Repository:** [`felixtare585-gif/Kericho-Dijkstra-Pathfinder.`](https://github.com/felixtare585-gif/Kericho-Dijkstra-Pathfinder.)
 
 
-> neofetch --stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixtare585&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixtare585&theme=tokyonight&timezone=Africa/Nairobi" alt="GitHub Streak" width="100%" />
-</p>
+<a href="https://github.com/felixtare585-gif">
+  <img src="https://github-readme-stats.vercel.app/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+</a>
+
+<a href="https://github.com/felixtare585-gif">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585-gif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/felixtare585-gif">
+  <img src="https://streak-stats.demolab.com/?user=felixtare585-gif&theme=tokyonight&hide_border=true" height="180"/>
+</a>
+
+</div>
 ### 📬 Connect With Me!!
 
 
