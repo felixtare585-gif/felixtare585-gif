@@ -100,18 +100,16 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 
 <div align="center">
 
+<!-- Most Used Languages -->
 <a href="https://github.com/felixtare585-gif">
-  <img src="https://github-readme-stats.shion.dev/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/felixtare585-gif">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=felixtare585-gif&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=felixtare585-gif&layout=donut&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&langs_count=8" width="450" alt="Most Used Languages" />
 </a>
 
 <br><br>
 
+<!-- GitHub Streak -->
 <a href="https://github.com/felixtare585-gif">
-  <img src="https://streak-stats.demolab.com/?user=felixtare585-gif&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=felixtare585-gif&theme=tokyonight&hide_border=true" width="750" alt="GitHub Streak" />
 </a>
 
 </div>
