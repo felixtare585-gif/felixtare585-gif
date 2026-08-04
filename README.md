@@ -96,22 +96,22 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 * 🔗 **Repository:** [`felixtare585-gif/Kericho-Dijkstra-Pathfinder.`](https://github.com/felixtare585-gif/Kericho-Dijkstra-Pathfinder.)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/felixtare585-gif">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/felixtare585-gif">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585-gif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585-gif&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="180" alt="Top Languages" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/felixtare585-gif">
-  <img src="https://streak-stats.demolab.com/?user=felixtare585-gif&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=felixtare585-gif&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </a>
 
 </div>
