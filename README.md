@@ -101,11 +101,11 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 <div align="center">
 
 <a href="https://github.com/felixtare585-gif">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/felixtare585-gif">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585-gif&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=felixtare585-gif&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </a>
 
 <br><br>
