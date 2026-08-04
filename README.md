@@ -96,22 +96,20 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 * 🔗 **Repository:** [`felixtare585-gif/Kericho-Dijkstra-Pathfinder.`](https://github.com/felixtare585-gif/Kericho-Dijkstra-Pathfinder.)
 
 
-### > neofetch --stats
+> neofetch --stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixtare585-gif&theme=tokyonight" alt="GitHub Profile Summary" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixtare585&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixtare585-gif&theme=tokyonight" alt="Top Languages by Repo" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felixtare585-gif&theme=tokyonight" alt="Top Languages by Commit" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixtare585&theme=tokyonight" width="48%" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felixtare585&theme=tokyonight" width="48%" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixtare585-gif&theme=tokyonight&hide_border=false" alt="Felix's Contribution Streak" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixtare585&theme=tokyonight&timezone=Africa/Nairobi" alt="GitHub Streak" width="100%" />
 </p>
-
----
 
 ### 📬 Connect With Me!!
 
