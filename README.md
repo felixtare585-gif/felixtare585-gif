@@ -99,18 +99,13 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 > neofetch --stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixtare585&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixtare585&theme=tokyonight" width="48%" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felixtare585&theme=tokyonight" width="48%" alt="Top Languages by Commit" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felixtare585&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixtare585&theme=tokyonight&timezone=Africa/Nairobi" alt="GitHub Streak" width="100%" />
 </p>
-
 ### 📬 Connect With Me!!
 
 
