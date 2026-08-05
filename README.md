@@ -45,6 +45,15 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 
 ---
 
+## 📜 Certifications & Training
+
+| Red Hat Python Programming (AD141) | Red Hat Linux Fundamentals (RH104) |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/8aaf33d1-b38a-40be-9192-c1acbb5306a0" width="400" alt="Python Certificate"> | <img src="https://github.com/user-attachments/assets/d96ebd0b-c9b6-4f0b-98e7-9d0c73ca0bae" width="400" alt="Linux Certificate"> |
+| 🎓 [Verify Badge on Credly](https://www.credly.com/badges/51dd34ab-ba66-4b57-a6a8-6a91f240027d) | 🎓 [Verify Badge on Credly](https://www.credly.com/badges/30d81e99-7c01-4a5c-b9a4-182c78c7e67c) |
+
+---
+
 ### > ls -la /projects
 
 #### 🛒 [SmartPOS — Desktop Point of Sale System](https://github.com/felixtare585-gif/SmartPOS)
@@ -95,6 +104,7 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 * ⚡ **Features:** Algorithm implementation, spatial pathfinding, data analysis.
 * 🔗 **Repository:** [`felixtare585-gif/Kericho-Dijkstra-Pathfinder.`](https://github.com/felixtare585-gif/Kericho-Dijkstra-Pathfinder.)
 
+---
 
 ## 📊 GitHub Statistics
 
@@ -113,8 +123,10 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 </a>
 
 </div>
-### 📬 Connect With Me!!
 
+---
+
+### 📬 Connect With Me!!
 
 * 📍 **Location:** Nairobi, Kenya
 * 📧 **Email:** [felixtare585@gmail.com](mailto:felixtare585@gmail.com)
