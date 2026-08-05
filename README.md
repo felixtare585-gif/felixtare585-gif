@@ -119,7 +119,7 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 
 <!-- GitHub Streak -->
 <a href="https://github.com/felixtare585-gif">
-  <img src="https://streak-stats.demolab.com/?user=felixtare585-gif&theme=tokyonight&hide_border=true" width="750" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixtare585-gif&theme=tokyonight&hide_border=true" width="750" alt="GitHub Streak" />
 </a>
 
 </div>
