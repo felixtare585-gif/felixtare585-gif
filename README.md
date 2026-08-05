@@ -1,3 +1,4 @@
+````markdown
 # Felix.Dev.
 .
 <p align="left">
@@ -20,37 +21,37 @@ Role       : Computer Technology Student | Java Developer
 Affiliation: Multimedia University of Kenya.
 Location   : Nairobi, Kenya
 Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
-```
+````
 
 ---
 
 ### > cat /proc/skills
 
 **Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
 **Frameworks & Libraries:**
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 **Tools & Environment:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge\&logo=Apache%20Maven\&logoColor=white)
+![Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge\&logo=kali-linux\&logoColor=white)
 
 ---
 
 ## 📜 Certifications & Training
 
-| Red Hat Python Programming (AD141) | Red Hat Linux Fundamentals (RH104) |
-| :---: | :---: |
+|                                                Red Hat Python Programming (AD141)                                                |                                                Red Hat Linux Fundamentals (RH104)                                               |
+| :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/user-attachments/assets/8aaf33d1-b38a-40be-9192-c1acbb5306a0" width="400" alt="Python Certificate"> | <img src="https://github.com/user-attachments/assets/d96ebd0b-c9b6-4f0b-98e7-9d0c73ca0bae" width="400" alt="Linux Certificate"> |
-| 🎓 [Verify Badge on Credly](https://www.credly.com/badges/51dd34ab-ba66-4b57-a6a8-6a91f240027d) | 🎓 [Verify Badge on Credly](https://www.credly.com/badges/30d81e99-7c01-4a5c-b9a4-182c78c7e67c) |
+|                  🎓 [Verify Badge on Credly](https://www.credly.com/badges/51dd34ab-ba66-4b57-a6a8-6a91f240027d)                 |                 🎓 [Verify Badge on Credly](https://www.credly.com/badges/30d81e99-7c01-4a5c-b9a4-182c78c7e67c)                 |
 
 ---
 
@@ -111,6 +112,7 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 <div align="center">
 
 <!-- Most Used Languages -->
+
 <a href="https://github.com/felixtare585-gif">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=felixtare585-gif&layout=donut&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&langs_count=8" width="450" alt="Most Used Languages" />
 </a>
@@ -118,8 +120,9 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 <br><br>
 
 <!-- GitHub Streak -->
+
 <a href="https://github.com/felixtare585-gif">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=felixtare585-gif&theme=tokyonight&hide_border=true" width="750" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixtare585-gif&theme=tokyonight&hide_border=true" width="750" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -131,3 +134,6 @@ Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
 * 📍 **Location:** Nairobi, Kenya
 * 📧 **Email:** [felixtare585@gmail.com](mailto:felixtare585@gmail.com)
 * 💼 **LinkedIn:** [Felix Kipyegon](https://linkedin.com/in/felix-kipyegon-834532314)
+
+```
+```
