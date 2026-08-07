@@ -1,6 +1,7 @@
 ````markdown
 # Felix.Dev
-.
+Felix.Dev
+
 <p align="left">
   <a href="https://linkedin.com/in/felix-kipyegon-834532314">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -8,20 +9,16 @@
   <a href="mailto:felixtare585@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</p>---
 
----
+> whoami
 
-### > whoami
-
-```yaml
-Operator   : Felix Kipyegon (Felix Tare).
+Operator   : Felix Kipyegon (Felix Tare)
 Alias      : felixtare585-gif
 Role       : Computer Technology Student | Java Developer
-Affiliation: Multimedia University of Kenya.
+Affiliation: Multimedia University of Kenya
 Location   : Nairobi, Kenya
 Focus      : [ Java, JavaFX, MySQL, Cybersecurity, Python ]
-````
 
 ---
 
