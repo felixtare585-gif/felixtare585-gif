@@ -18,20 +18,6 @@
 
 ---
 
-## 🚀 About Me
-
-I am a **Computer Technology student** passionate about building software, developing secure systems, working with databases, exploring Linux and networking, and applying technology to practical problems.
-
-I enjoy turning ideas into functional applications and strengthening my technical skills through hands-on projects, development, and security labs.
-
-* 🎓 **Education:** Computer Technology Student
-* 💻 **Primary Focus:** Software & Web Development
-* ☕ **Development:** Java & Python
-* 🔐 **Specialization:** Cybersecurity, Network Security & Linux Systems
-* 🌐 **Web:** HTML, CSS & JavaScript
-* 🗄️ **Databases:** MySQL & SQL
-* 🐧 **Systems:** Linux, Kali Linux & RHEL
-* 📊 **Data:** Python, Jupyter & Data Analysis
 
 ---
 
