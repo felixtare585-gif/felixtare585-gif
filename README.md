@@ -1,25 +1,37 @@
-#  Felix Tare.Dev
+<div align="center">
 
-### 💻 Aspiring Software Developer | Data Science | Cybersecurity
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Felix+Tare;Computer+Technology+Student;Software+Developer;Cybersecurity+%26+Linux+Enthusiast;Building+%F0%9F%92%BB+Learning+%F0%9F%93%9A+Growing+%F0%9F%9A%80" alt="Typing Header" />
 
-I'm a **Computer Technology student** passionate about software development, cybersecurity, networking, databases, Linux, web development, and data science.
+<p>
+  <a href="https://github.com/felixtare585-gif">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/felix-kipyegon-834532314">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:felixtare585@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-I enjoy building practical projects, solving problems, exploring technology, and turning what I learn into real-world applications.
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Technology Student
-* 💻 Aspiring Software Developer
-* 📊 Aspiring Data Scientist
-* 🔐 Cybersecurity Enthusiast
-* ☕ Java & Python Developer
-* 🌐 Web Developer
-* 🐧 Linux & Networking Enthusiast
-* 🗄️ Database Developer
-* 🏗️ Practical Project Builder
-* 📚 Technology Enthusiast
+I am a **Computer Technology student** passionate about building software, developing secure systems, working with databases, exploring Linux and networking, and applying technology to practical problems.
+
+I enjoy turning ideas into functional applications and strengthening my technical skills through hands-on projects, development, and security labs.
+
+* 🎓 **Education:** Computer Technology Student
+* 💻 **Primary Focus:** Software & Web Development
+* ☕ **Development:** Java & Python
+* 🔐 **Specialization:** Cybersecurity, Network Security & Linux Systems
+* 🌐 **Web:** HTML, CSS & JavaScript
+* 🗄️ **Databases:** MySQL & SQL
+* 🐧 **Systems:** Linux, Kali Linux & RHEL
+* 📊 **Data:** Python, Jupyter & Data Analysis
 
 ---
 
@@ -28,62 +40,53 @@ I enjoy building practical projects, solving problems, exploring technology, and
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
 </p>
 
-* C
-* C++
-* Java
-* Python
-* JavaScript
-* HTML
-* CSS
-* SQL
+**C • C++ • Java • Python • JavaScript • HTML5 • CSS3 • SQL**
 
 ---
 
 ## ⚙️ Frameworks & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javafx,mysql" />
+  <img src="https://skillicons.dev/icons?i=javafx,maven,mysql" />
 </p>
 
-* Java Swing
-* JavaFX
-* Maven
-* JDBC
-* Object-Oriented Programming
-* GUI Development
-* Database Integration
-* CRUD Applications
-* Software Development
+* ☕ Java Swing
+* ☕ JavaFX
+* 🔌 JDBC
+* 📦 Apache Maven
+* 🧩 Object-Oriented Programming
+* 🖥️ Desktop GUI Development
+* 🗄️ Database Integration
+* 🔄 CRUD Applications
+* 🏗️ Software Development
 
 ---
 
-# 🔧 Development Tools
+## 🔧 Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,maven" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,idea" />
 </p>
 
 * Visual Studio Code
 * Git
 * GitHub
 * Apache Maven
-* Jupyter Notebook
 * MySQL Workbench
+* Jupyter Notebook
+* VMware Workstation
 * Windows
 * Linux
-* Kali Linux
-* Red Hat Enterprise Linux
-* VMware
 
 ---
 
-# 🌐 Web Development
+## 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 * HTML5
@@ -91,26 +94,24 @@ I enjoy building practical projects, solving problems, exploring technology, and
 * JavaScript
 * Responsive Web Design
 * Frontend Development
-* Web Application Development
+* Web Applications
 * Git & GitHub
-* VS Code
 
 ---
 
-# 🗄️ Databases
+## 🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 * MySQL
-* MySQL Workbench
 * SQL
+* MySQL Workbench
 * JDBC
-* Database Design
-* Relational Databases
-* CRUD Operations
+* Relational Database Design
 * Database Integration
+* CRUD Operations
 
 ---
 
@@ -120,20 +121,18 @@ I enjoy building practical projects, solving problems, exploring technology, and
   <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
-* Linux Fundamentals
-* Kali Linux
-* Red Hat Enterprise Linux
-* Linux Command Line
-* Bash
-* SSH
-* IP Addressing
-* IP Subnetting
-* DNS
-* Network Troubleshooting
-* Virtual Machines
-* VMware
-* Network Configuration
-* System Administration
+* 🐧 Kali Linux
+* 🐧 Red Hat Enterprise Linux
+* 💻 Linux Command Line
+* 🖥️ System Administration
+* 🔐 SSH
+* 🌐 IPv4 Addressing
+* 📡 IP Subnetting
+* 🌍 DNS
+* 🔎 Wireshark
+* 🛜 Network Configuration
+* 🔧 Network Troubleshooting
+* 🖥️ VMware Virtualization
 
 ---
 
@@ -141,29 +140,29 @@ I enjoy building practical projects, solving problems, exploring technology, and
 
 ### 🛡️ Cybersecurity Skills & Specialization
 
-I have a strong foundation in **cybersecurity, Linux security, networking, and system security**, with practical experience working in security-focused environments and hands-on labs.
+I have a strong foundation in **cybersecurity, Linux security, networking, and system security**, supported by practical hands-on work in Linux and security-focused laboratory environments.
 
 * 🔐 Cybersecurity Fundamentals
+* 🐧 Linux Security
 * 🐧 Kali Linux
-* 🐧 Linux Administration & Security
-* 🌐 Computer & Network Security
+* 🌐 Network Security
 * 📡 Network Analysis
 * 🔎 Wireshark
 * 🖥️ VMware & Virtual Machines
 * 🔑 SSH & Secure Remote Access
 * 🌍 IP Addressing & Subnetting
 * 📡 DNS & Network Services
-* 🧪 Security Labs & Practical Exercises
+* 🧪 Security Labs
 * 🔍 Vulnerability Assessment Fundamentals
 * 🕵️ System & Network Troubleshooting
 * 🛡️ Security Best Practices
 * 🌐 Web Security Fundamentals
 
-### 🎯 Cybersecurity Specialization
+### 🎯 Areas of Specialization
 
 **Network Security • Linux Security • Ethical Hacking • Vulnerability Assessment • Web Security • System Security • Network Analysis**
 
-> **Security isn't just about finding vulnerabilities — it's about understanding systems, identifying risks, and building more secure environments.**
+> 🔐 **Security isn't just about finding vulnerabilities — it's about understanding systems, identifying risks, and building more secure environments.**
 
 ---
 
@@ -173,125 +172,136 @@ I have a strong foundation in **cybersecurity, Linux security, networking, and s
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-* Python
-* Jupyter Notebook
-* NumPy
-* Pandas
-* Matplotlib
-* Data Analysis
-* Data Visualization
-* Python Programming
-* Data Science Fundamentals
+* 🐍 Python
+* 📓 Jupyter Notebook
+* 🔢 NumPy
+* 🐼 Pandas
+* 📈 Matplotlib
+* 📊 Data Analysis
+* 📉 Data Visualization
+* 🧠 Data Science Fundamentals
 
 ---
 
 # 📌 Featured Projects
 
-## 🛒 SmartPOS
+## 🛒 [SmartPOS](https://github.com/felixtare585-gif/SmartPOS)
 
-A Java-based Point of Sale system designed to manage sales, inventory, products, and business operations.
+> A Java-based Point of Sale system designed to manage sales, inventory, products, and business operations.
 
-**Technologies:**
-
-`Java` `JavaFX` `MySQL` `JDBC` `Maven`
-
----
-
-## 📦 Inventory Management System
-
-A desktop inventory management application for managing products, quantities, prices, and database records.
-
-**Technologies:**
-
-`Java` `JavaFX` `MySQL` `JDBC` `Maven`
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>
 
 ---
 
-## 🎓 Student Management System
+## 📦 [Inventory Management System](https://github.com/felixtare585-gif/Inventory-Management-System)
 
-A Java Swing application for managing student information with database integration.
+> A desktop application for managing products, stock quantities, prices, and database records.
 
-**Technologies:**
-
-`Java` `Java Swing` `MySQL` `JDBC`
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## 🌐 Personal Portfolio
+## 🎓 [Student Management System](https://github.com/felixtare585-gif/Student-Management-System)
 
-A personal website showcasing my projects, skills, and development journey.
+> A Java Swing application for managing student records with MySQL database integration.
 
-**Technologies:**
-
-`HTML` `CSS` `JavaScript`
+<p>
+  <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 ---
 
 # 🧪 Linux & Cybersecurity Labs
 
-My practical experience includes working with Linux environments, networking, virtualization, and security-focused exercises.
+My practical work includes Linux environments, networking, virtualization, and security-focused exercises.
 
-Areas of practical experience include:
-
-* Linux command-line operations
-* System administration
-* Network configuration
-* Network analysis
-* Security fundamentals
-* Virtualized environments
-* System troubleshooting
-* Network troubleshooting
-* Security-focused laboratory exercises
+* 🔎 Network traffic analysis with Wireshark
+* 🔑 SSH and secure remote administration
+* 🐧 Linux command-line operations
+* 🛡️ Linux security fundamentals
+* 🌐 Network configuration and troubleshooting
+* 🖥️ VMware virtual environments
+* 🔐 Cybersecurity laboratory exercises
 
 ---
 
-# 📊 GitHub Stats
+# 📜 Certifications & Learning
+
+* 🐧 **Red Hat Academy — Linux Fundamentals**
+* 🐍 **Red Hat Academy — Python Programming**
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585-gif&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=felixtare585-gif&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixtare585-gif&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=felixtare585-gif&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=felixtare585-gif&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" alt="GitHub Streak"/>
 </p>
 
 ---
 
 # 🎯 Professional Focus
 
-My technical focus combines **software development, cybersecurity, networking, databases, Linux, and data science**.
+My technical focus combines:
 
-I'm particularly interested in building secure and practical software systems while developing strong problem-solving and technical skills.
+<p align="center">
 
-### Core Areas
+`SOFTWARE DEVELOPMENT` • `CYBERSECURITY` • `NETWORKING` • `LINUX` • `DATABASES` • `WEB DEVELOPMENT` • `DATA SCIENCE`
 
-**Software Development** • **Cybersecurity** • **Networking** • **Linux** • **Databases** • **Web Development** • **Data Science**
+</p>
+
+I am focused on building **practical, reliable, and secure software systems** while strengthening my problem-solving and technical abilities.
 
 ---
 
 # 💡 Development Philosophy
 
-> **Learn → Build → Test → Debug → Secure → Improve → Repeat.**
+<p align="center">
 
-I believe the best way to master technology is by building, experimenting, solving problems, and applying knowledge to real-world projects.
+**LEARN → BUILD → TEST → DEBUG → SECURE → IMPROVE**
+
+</p>
+
+> 💻 **Don't just learn how technology works. Build it, test it, break it, secure it, and improve it.**
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/felix-kipyegon-834532314">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://github.com/felixtare585-gif">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
+  <a href="https://linkedin.com/in/felix-kipyegon-834532314">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:felixtare585@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
 
-**Building skills. Building projects. Building the future.**
+### 🚀 Building skills. Building projects. Building the future.
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
