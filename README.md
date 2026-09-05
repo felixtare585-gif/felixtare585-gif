@@ -1,55 +1,13 @@
-# Hi there, I'm Sang Felix 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Felix+Tare;Computer+Technology+Student;Software+Developer+%26+Security+Enthusiast" alt="Typing Header" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-2563EB?style=flat-square&logo=google-chrome)](https://felixkipyegon.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail)](mailto:your-email@example.com)
-
----
-
-### 👨‍💻 About Me
-- 🎓 B.Sc. **Computer Technology** student at **Multimedia University of Kenya**.
-- 🛠️ Passionate about **Software Development**, **Linux Systems Administration**, and **Database Engineering**.
-- 🔒 Actively exploring **Network Security** and virtualization with **RHEL** and **Kali Linux**.
-- 📍 Based in **Nairobi, Kenya**.
+  <p>
+    <a href="https://linkedin.com/in/felix-kipyegon-834532314"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:felixtare585@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://github.com/felixtare585-gif"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Featured Projects
-
-* **[SmartPOS](https://github.com/your-username/smartpos)** — A modern desktop Point of Sale system featuring automated inventory tracking, sales checkout workflows, and PDF report generation.  
-  *Tech:* `JavaFX` • `Maven` • `MySQL` • `JDBC`
-
-* **[Nairobi Matatu Route Optimizer](https://github.com/your-username/route-optimizer)** — A pathfinding application that calculates optimal shortest routes between transit stops using graph theory.  
-  *Tech:* `Python` • `Dijkstra's Algorithm` • `Graph Traversal`
-
-* **[Student Management System](https://github.com/your-username/student-management-system)** — A complete desktop CRUD application for student records and course enrollment tracking.  
-  *Tech:* `Java Swing` • `MySQL Workbench` • `JDBC`
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Languages:**  
-`Java` • `Python` • `C` • `C++` • `SQL` • `JavaScript` • `HTML5/CSS3`
-
-**Tools & Frameworks:**  
-`JavaFX` • `Swing` • `Git` • `GitHub` • `Apache Maven` • `MySQL` • `VS Code`
-
-**Systems & Platforms:**  
-`Red Hat Enterprise Linux (RHEL)` • `Kali Linux` • `VMware Workstation` • `VirtualBox`
-
----
-
-### 📜 Certifications & Credentials
-- **Red Hat Certified:** Linux Fundamentals (RH104)
-- **Red Hat Certified:** Python Programming (AD141)
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 🚀 About Me
