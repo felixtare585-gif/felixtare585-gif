@@ -1,1 +1,1 @@
-https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Felix+Tare;Computer+Technology+Student;Software+Develop
+https://readme-typing-svg.demolfont=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Felix+Tare;Computer+Technology+Student;Software+Develop
